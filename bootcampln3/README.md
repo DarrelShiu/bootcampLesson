@@ -2,4 +2,4 @@
 
 ## Data type practice
 
-*Hello*
+### Data type practice
