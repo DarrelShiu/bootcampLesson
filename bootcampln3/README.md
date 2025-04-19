@@ -5,7 +5,34 @@
 ### bootcampLesson3 lvl 3
 
 
+> this is a quotation
+>> this is a quotation of a quotation
+>>> this is a nested quotation
+>> >
+>> end of a quotation
+>>
 
+- item 1
+- item 2
+  - item 2.1
+  - item 2.2
+- item 3
+
++ item 1
++ item 2
+    + item 2.1
+    + item 2.2
++ item 3
+
+* item 1
+* item 2
+* item 3
+
+1. item 1
+2. item 2
+   2.1. item 2.1
+   2.2. item 2.2
+3. item 3
 
 link to: [lvl1](#bootcamplesson3-lvl-1)
 
