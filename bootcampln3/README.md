@@ -4,6 +4,11 @@
 
 ### bootcampLesson3 lvl 3
 
+This is a **bold** syntax \
+This is a *italic* syntax \
+This is a <ins>underline</ins> syntax \
+This is a ${\color{#0969DA}ABC}$ syntax
+
 
 > this is a quotation
 >> this is a quotation of a quotation
@@ -25,14 +30,33 @@
 + item 3
 
 * item 1
-* item 2
+
+    I want it as unordered sentence 
+
 * item 3
 
 1. item 1
 2. item 2
-   2.1. item 2.1
-   2.2. item 2.2
+   1. item 2.1
+   2. item 2.2
 3. item 3
+
+- 2000 is a critical date
+- 2001 is another critical date
+
+This is a default link [google](http://www.google.com "default link") 
+
+This is a NASA link [1] \
+This is a yahoo link [2]
+
+`![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/shiprock.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")`
+
+![The San Juan Mountains are beautiful!](./img/mountian.png)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+[1]: <https://www.nasa.gov>
+[2]: <https://www.yahoo.com>
 
 link to: [lvl1](#bootcamplesson3-lvl-1)
 
