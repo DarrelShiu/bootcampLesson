@@ -1,6 +1,22 @@
 # bootcampLesson3 lvl 1
 
+dfd
+dfsd
+dsf
+dsf
+sfd
+
+
+
+
 ## bootcampLesson3 lvl 2
+
+
+- [ ] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
 
 ### bootcampLesson3 lvl 3
 
@@ -91,3 +107,43 @@ Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#bootcamplesson3-lvl-2)
+
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+<!-- This content will not appear in the rendered Markdown -->
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+| Name   | Comment                                                                 |
+|:-------|:------------------------------------------------------------------------|
+| Alice  | Always involved in various communications                               |
+| Bob    | A good guy, who likes to communicate with Alice                         |
+| Malroy | Not so nice guy. Tries to mess with the communication of Alice and Bob. |
