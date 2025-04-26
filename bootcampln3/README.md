@@ -10,11 +10,11 @@ practised
 11. toUpperCase/ toLowerCase \
 9. replace \
 5. contains \
-6. startsWith/ endsWith
-7. trim
-8. indexOf/ lastIndexOf
-10. concat
-11. compareTo
+6. startsWith/ endsWith\
+7. trim\
+8. indexOf/ lastIndexOf\
+10. concat\
+11. compareTo\
 
 trim/ equals/ equalsIgnoreCase
 
