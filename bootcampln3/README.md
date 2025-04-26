@@ -1,4 +1,4 @@
-${\color{#0969DA}20250426}$ \
+${\color{#0969DA}20250426}$ 
 1. **ctrl + X** - delete line
 2. **shift + alt + up/down** - copy from previous line 
 
