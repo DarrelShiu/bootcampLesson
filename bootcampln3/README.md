@@ -1,3 +1,6 @@
+**ctrl + X** - delete line 
+
+
 # bootcampLesson3 lvl 1
 
 dfd
