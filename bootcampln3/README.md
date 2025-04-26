@@ -5,10 +5,11 @@ ${\color{#0969DA}20250426}$
    
 
 practised 
-- isEmpty/ isBlank
-- substring ***use str.***
-- toUpperCase/ toLowerCase
-- replace
+7. isEmpty/ isBlank
+10. substring ***use str.***
+11. toUpperCase/ toLowerCase
+9. replace
+5. contains
 - 
 
 
