@@ -1,4 +1,4 @@
-${\color{#0969DA}20250426}$
+${\color{#0969DA}20250426}$ \
 **ctrl + X** - delete line 
 
 
