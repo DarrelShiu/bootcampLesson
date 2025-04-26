@@ -1,5 +1,7 @@
 ${\color{#0969DA}20250426}$ \
-**ctrl + X** - delete line 
+1. **ctrl + X** - delete line
+2. **shift + alt + up/down** - copy from previous line 
+
 - practised isEmpty/ isBlank
 
 
