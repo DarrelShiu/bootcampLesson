@@ -1,8 +1,15 @@
 ${\color{#0969DA}20250426}$ 
 1. **ctrl + X** - delete line
-2. **shift + alt + up/down** - copy from previous line 
+2. **shift + alt + up/down** - copy from previous line
+3. **ctrl + L** - select current line
+   
 
-- practised isEmpty/ isBlank
+practised 
+- isEmpty/ isBlank
+- substring ***use str.***
+- toUpperCase/ toLowerCase
+- replace
+- 
 
 
 # bootcampLesson3 lvl 1
