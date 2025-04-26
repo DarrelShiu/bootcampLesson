@@ -241,5 +241,42 @@ public class DemoLoop {
     System.out.println();
   }
 
+  int i43 = 1;
+  for (int i42 = 1; i42 <= 20; i42 ++) {
+    i43 *= i42;
+    if (i43 > 100) {
+      break;
+    }
+    System.out.println("the value of i43 is " + i43);
+  }
+
+  for (int i44 = 0; i44 <= 30; i44++) {
+    if (i44 > 10 && i44 < 20) {
+      continue;
+    }
+    System.out.println("the value of i44 is " + i44);
+  }
+
+  String s5 = "AbcAcsfAdvd";
+  int i50 = 0;
+  for (int i49 = 0; i49 <= s5.length() -1 ; i49++) {
+    if (s5.charAt(i49) != 'A') {
+        continue;
+    }
+    i50 += 1;
+  }
+  System.out.println("The value of i50: " + i50);
+
+  int i51 = 0;
+  for (int i49 = 0; i49 <= s5.length() -1 ; i49++) {
+    if (s5.charAt(i49) == 'A') {
+        if (i51 == 3) {
+          break;
+        }
+    }
+    i51 += 1;
+  }
+  System.out.println("The value of i51: " + i51);
+
   }  
 }
