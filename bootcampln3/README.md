@@ -1,3 +1,25 @@
+${\color{#0969DA}20250426}$ 
+1. **ctrl + X** - delete line
+2. **shift + alt + up/down** - copy from previous line
+3. **ctrl + L** - select current line
+   
+
+practised 
+7. isEmpty/ isBlank \
+10. substring \
+11. toUpperCase/ toLowerCase \
+9. replace \
+5. contains \
+6. startsWith/ endsWith\
+7. trim\
+8. indexOf/ lastIndexOf\
+10. concat\
+11. compareTo
+
+trim/ equals/ equalsIgnoreCase
+
+
+
 # bootcampLesson3 lvl 1
 
 dfd
