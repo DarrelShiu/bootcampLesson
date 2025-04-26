@@ -14,7 +14,7 @@ practised
 7. trim\
 8. indexOf/ lastIndexOf\
 10. concat\
-11. compareTo\
+11. compareTo
 
 trim/ equals/ equalsIgnoreCase
 
