@@ -1,5 +1,6 @@
 ${\color{#0969DA}20250426}$ \
 **ctrl + X** - delete line 
+- practised isEmpty/ isBlank
 
 
 # bootcampLesson3 lvl 1
